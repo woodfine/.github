@@ -20,7 +20,7 @@
 ---
 
 ### 🏢 Corporate Mandate | Mandato Corporativo
-**Woodfine Management Corp.** acts as the Agent and operating arm for Woodfine Capital Projects Inc. The Corporation is exclusively responsible for the procurement, development, and management of real property assets through the **Woodfine Limited Partnerships (LPs)**.
+**Woodfine Management Corp.** acts as the Agent and operating arm for Woodfine Capital Projects Inc. The Corporation is exclusively responsible for the procurement, development, and management of real property assets through the **Woodfine Limited Partnerships (Woodfine LPs)**.
 
 **Woodfine Management Corp.** actúa como Agente y brazo operativo de Woodfine Capital Projects Inc. La Corporación es exclusivamente responsable de la adquisición, desarrollo y gestión de bienes inmuebles a través de las **Asociaciones Limitadas Woodfine**.
 
