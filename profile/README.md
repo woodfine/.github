@@ -31,7 +31,7 @@
 
 ### 🎛️ Infrastructure (The 3-Node Mesh)
 * **[`woodfine-fleet-manifest`](https://github.com/woodfine/woodfine-fleet-manifest)**: The active register of all physical servers. Currently operating across:
-  * **Node 1 (Muscle):** Bare-metal infrastructure execution (Foundation Verified).
+  * **Node 1 (Muscle):** Bare-metal infrastructure execution (Foundation Verified).(Foundation Verified).(Foundation Verified).
   * **Node 2 (Relay):** Cloud-based static IP anchoring.
   * **Node 3 (Brain):** Virtualized cryptographic command.
 
