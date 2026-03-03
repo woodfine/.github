@@ -25,10 +25,25 @@
 ## 🏢 Corporate Mandate | Mandato Corporativo
 **Woodfine Management Corp.** serves as the operating arm for **Woodfine Capital Projects Inc.** Our mission is the secure procurement and management of real property assets through **Sovereign Computing**.
 
+**Woodfine Management Corp.** sirve como el brazo operativo de **Woodfine Capital Projects Inc.** Nuestra misión es la adquisición y gestión segura de activos inmobiliarios a través de la **Computación Soberana**.
+
 ### 🔑 Operational Pillars | Pilares Operativos
-* **Perpetual Equity:** Long-term value creation over short-term liquidity.
-* **Risk Management:** Strict adherence to a 1.2 Interest Coverage Ratio.
-* **Sovereignty:** All data is secured on decentralized **PointSav Totebox** nodes.
+* **Perpetual Equity:** Long-term value creation over short-term liquidity. / Creación de valor a largo plazo sobre liquidez a corto plazo.
+* **Risk Management:** Strict adherence to a 1.2 Interest Coverage Ratio. / Cumplimiento estricto de un Índice de Cobertura de Intereses de 1.2.
+* **Sovereignty:** All data is secured on decentralized **PointSav Totebox** nodes. / Todos los datos están asegurados en nodos descentralizados.
+
+## 🛤️ Active Deployment Status | Estado de Despliegue Activo
+Woodfine operates on a decentralized, independent network.
+Woodfine opera en una red descentralizada e independiente.
+
+| Asset / Activo | Track / Vía | Status / Estado | Role / Rol |
+| :--- | :--- | :--- | :--- |
+| **Node 1 (Muscle)** | 1. Infrastructure | 🟢 Active | Physical Edge Server / Servidor Perimetral Físico |
+| **Node 2 (Relay)** | 1. Infrastructure | 🟢 Active | Cloud Gateway / Puerta de Enlace en la Nube |
+| **Node 3 (Brain)** | 1. Infrastructure | 🟢 Active | Command Terminal / Terminal de Comando |
+| **Corporate Cluster** | 2. Totebox | 🟡 Provisioning | Institutional Knowledge / Conocimiento Institucional |
+| **Personnel Cluster** | 2. Totebox | 🟡 Provisioning | Internal Identities / Identidades Internas |
+| **Property Cluster** | 2. Totebox | 🟡 Provisioning | Real Estate Ledgers / Libros de Bienes Inmuebles |
 
 ## 📚 Governance & Development
 * **[ Corporate Knowledge Base ](https://github.com/woodfine/content-wiki-corporate):** Internal policies, HR mandates, and financial controls.
