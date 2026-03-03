@@ -35,4 +35,4 @@
 * **[ Project Knowledge Base ](https://github.com/woodfine/content-wiki-projects):** Daily logs and engineering tracking for active development sites.
 
 ---
-*© 2026 Woodfine Management Corp. Powered by PointSav OS.*
+*© 2026 Woodfine Management Corp.*
