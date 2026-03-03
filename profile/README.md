@@ -30,5 +30,9 @@
 * **Risk Management:** Strict adherence to a 1.2 Interest Coverage Ratio.
 * **Sovereignty:** All data is secured on decentralized **PointSav Totebox** nodes.
 
+## 📚 Governance & Development
+* **[ Corporate Knowledge Base ](https://github.com/woodfine/content-wiki-corporate):** Internal policies, HR mandates, and financial controls.
+* **[ Project Knowledge Base ](https://github.com/woodfine/content-wiki-projects):** Daily logs and engineering tracking for active development sites.
+
 ---
 *© 2026 Woodfine Management Corp. Powered by PointSav OS.*
