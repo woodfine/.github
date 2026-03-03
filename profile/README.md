@@ -1,53 +1,39 @@
 <div align="center">
 
 # Woodfine Management Corp.
-### *Procurement, Development & Management of Real Property*
+### *Procurement, Development & Management of Real Property | Adquisición, Desarrollo y Gestión de Bienes Inmuebles*
 **Vancouver | New York | Berlin**
 
-[ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-manifest) | [ **Brand Assets** ](https://github.com/woodfine/woodfine-design-system) | [ **System Vendor** ](https://github.com/pointsav)
-
-<br/>
-
-### 🛠️ **[ VIEW SOURCE CODE (POINTSAV) ](https://github.com/pointsav)** 🛠️
-*Powered by Sovereign Operating Systems.*
+[ **Fleet Manifest | Manifiesto de Flota** ](https://github.com/woodfine/woodfine-fleet-manifest) | [ **System Vendor | Proveedor del Sistema** ](https://github.com/pointsav)
 
 </div>
 
 ---
 
-> **OPERATIONAL POSTURE [MARCH 2026]:**
-> **Phase:** 3-Node Mesh Deployment (Operational)
-> **Fleet State:** Node 1 (Active - Edge) | Node 2 (Active - Cloud) | Node 3 (Active - Command)
-> **Security Model:** Machine-Based Authorization (MBA) Enforced.
-
----
-
 ## 🏢 Corporate Mandate | Mandato Corporativo
-**Woodfine Management Corp.** serves as the operating arm for **Woodfine Capital Projects Inc.** Our mission is the secure procurement and management of real property assets through **Sovereign Computing**.
+**English:** Woodfine Management Corp. is the operating arm for Woodfine Capital Projects Inc. Our mission is the secure procurement and management of real estate assets through a 100% Digital First, Sovereign Computing architecture. 
 
-**Woodfine Management Corp.** sirve como el brazo operativo de **Woodfine Capital Projects Inc.** Nuestra misión es la adquisición y gestión segura de activos inmobiliarios a través de la **Computación Soberana**.
-
-### 🔑 Operational Pillars | Pilares Operativos
-* **Perpetual Equity:** Long-term value creation over short-term liquidity. / Creación de valor a largo plazo sobre liquidez a corto plazo.
-* **Risk Management:** Strict adherence to a 1.2 Interest Coverage Ratio. / Cumplimiento estricto de un Índice de Cobertura de Intereses de 1.2.
-* **Sovereignty:** All data is secured on decentralized **PointSav Totebox** nodes. / Todos los datos están asegurados en nodos descentralizados.
+**Español:** Woodfine Management Corp. es el brazo operativo de Woodfine Capital Projects Inc. Nuestra misión es la adquisición y gestión segura de activos inmobiliarios a través de una arquitectura de Computación Soberana 100% digital.
 
 ## 🛤️ Active Deployment Status | Estado de Despliegue Activo
-Woodfine operates on a decentralized, independent network.
-Woodfine opera en una red descentralizada e independiente.
+Woodfine operates on a decentralized, Trustworthy System provided by PointSav, completely bypassing legacy SaaS vulnerabilities.
+Woodfine opera en un Sistema Confiable descentralizado, evitando las vulnerabilidades del SaaS tradicional.
 
 | Asset / Activo | Track / Vía | Status / Estado | Role / Rol |
 | :--- | :--- | :--- | :--- |
-| **Node 1 (Muscle)** | 1. Infrastructure | 🟢 Active | Physical Edge Server / Servidor Perimetral Físico |
-| **Node 2 (Relay)** | 1. Infrastructure | 🟢 Active | Cloud Gateway / Puerta de Enlace en la Nube |
-| **Node 3 (Brain)** | 1. Infrastructure | 🟢 Active | Command Terminal / Terminal de Comando |
-| **Corporate Cluster** | 2. Totebox | 🟡 Provisioning | Institutional Knowledge / Conocimiento Institucional |
-| **Personnel Cluster** | 2. Totebox | 🟡 Provisioning | Internal Identities / Identidades Internas |
-| **Property Cluster** | 2. Totebox | 🟡 Provisioning | Real Estate Ledgers / Libros de Bienes Inmuebles |
+| **Node 1, 2 & 3** | 1. Infrastructure | 🟢 Active | Secure physical mesh routing. / Enrutamiento físico seguro. |
+| **Corporate Cluster** | 2. Totebox | 🟡 Provisioning | SOC 3 compliant institutional knowledge. / Conocimiento institucional. |
+| **Property Cluster** | 2. Totebox | 🟡 Provisioning | DARP compliant real estate ledgers. / Libros de bienes inmuebles. |
+| **Workplace Terminals** | 3. Desktop | 🟡 Provisioning | Deterministic authoring (Files over Databases). / Creación determinista. |
 
-## 📚 Governance & Development
-* **[ Corporate Knowledge Base ](https://github.com/woodfine/content-wiki-corporate):** Internal policies, HR mandates, and financial controls.
-* **[ Project Knowledge Base ](https://github.com/woodfine/content-wiki-projects):** Daily logs and engineering tracking for active development sites.
+## ⚖️ Operational Pillars | Pilares Operativos
+**English:** * **Perpetual Equity:** Long-term value creation over short-term liquidity.
+* **Risk Management:** Strict adherence to a 1.2 Interest Coverage Ratio.
+* **Machine-Readable Reality:** All corporate actions are recorded via Six Orchestration Contracts, allowing automated, mathematical verification for compliance audits.
+
+**Español:** * **Capital Perpetuo:** Creación de valor a largo plazo.
+* **Gestión de Riesgos:** Cumplimiento estricto de un Índice de Cobertura de Intereses de 1.2.
+* **Realidad Legible por Máquina:** Todas las acciones corporativas permiten la verificación matemática automatizada para auditorías.
 
 ---
 *© 2026 Woodfine Management Corp.*
