@@ -4,47 +4,37 @@
 ### *Procurement, Development & Management of Real Property | Adquisición, Desarrollo y Gestión de Bienes Inmuebles*
 **Vancouver | New York | Berlin**
 
-[ **Fleet Manifest | Manifiesto de Flota** ](https://github.com/woodfine/woodfine-fleet-manifest) | [ **System Vendor | Proveedor del Sistema** ](https://github.com/pointsav)
+[ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-manifest) | [ **Corporate Wiki** ](https://github.com/woodfine/content-wiki-corporate) | [ **System Vendor** ](https://github.com/pointsav)
 
 </div>
 
----
+<br/>
 
-## 🏢 Corporate Mandate | Mandato Corporativo
-**English:** Woodfine Management Corp. operates as the administration arm for Woodfine Capital Projects Inc. Our mandate is the secure procurement, development, and management of institutional-grade regional real estate utilizing a 100% Digital First, Sovereign Computing architecture.
+> [!WARNING]
+> **DATA SOVEREIGNTY POSTURE | POSTURA DE SOBERANÍA DE DATOS**
+> **[ EN ]** This organization serves as the public Fleet Manifest and compliance disclosure layer for Woodfine Capital Projects. To enforce SOC 3 and DARP mandates, all active real estate ledgers, financial controls, and personnel archives operate on isolated, physically owned Totebox nodes and are never uploaded to this domain.
+> **[ ES ]** Esta organización sirve como el Manifiesto de Flota público. Para hacer cumplir los mandatos SOC 3 y DARP, todos los libros de contabilidad inmobiliaria y controles financieros operan en nodos físicos aislados y nunca se cargan en este dominio.
 
-**Español:** Woodfine Management Corp. opera como el brazo administrativo de Woodfine Capital Projects Inc. Nuestro mandato es la adquisición, desarrollo y gestión segura de bienes inmuebles regionales de grado institucional utilizando una arquitectura de Computación Soberana 100% digital.
+### 🏢 Corporate Mandate | Mandato Corporativo
+**[ EN ]** Woodfine Management Corp. operates as the administration arm for Woodfine Capital Projects Inc. Our mandate is the secure procurement, development, and management of institutional-grade regional real estate utilizing Direct-Hold Solutions.
+**[ ES ]** Woodfine Management Corp. opera como el brazo administrativo de Woodfine Capital Projects Inc. Nuestro mandato es la gestión segura de bienes inmuebles regionales de grado institucional utilizando Soluciones de Tenencia Directa.
 
-## ⚖️ Operational Pillars | Pilares Operativos
-**English:** * **Perpetual Equity:** Prioritize long-term value creation over short-term liquidity.
-* **Risk Management:** Enforce a strict 1.2 Interest Coverage Ratio across all Direct-Hold Solutions.
-* **Machine-Readable Reality:** Record all corporate actions via the Six Orchestration Contracts to enable automated mathematical verification.
+### ⚖️ The Financial Model | El Modelo Financiero
+**[ EN ]** * **Narrow Bank Model:** Eliminate reliance on commercial construction loans. Cap debt issuance with a strict 1.2 Interest Coverage Ratio.
+* **Co-Location Mandate:** Target stable regional markets by developing professional office buildings directly adjacent to major national retailers.
+* **Reporting Entities:** Pass income directly to Investors via Flow-Through Taxation while functioning as Freely Transferable private equity.
 
-**Español:** * **Capital Perpetuo:** Priorizar la creación de valor a largo plazo sobre la liquidez a corto plazo.
-* **Gestión de Riesgos:** Imponer un estricto Índice de Cobertura de Intereses de 1.2.
-* **Realidad Legible por Máquina:** Registrar todas las acciones mediante los Seis Contratos para permitir la verificación matemática automatizada.
+**[ ES ]**
+* **Modelo de Banco Estrecho:** Eliminar dependencia de préstamos comerciales.
+* **Mandato de Coubicación:** Desarrollar oficinas adyacentes a minoristas nacionales.
+* **Entidades Reguladas:** Transferir ingresos a través de impuestos de flujo continuo.
 
-## 🛤️ Active Fleet Deployment | Despliegue de Flota Activo
-Woodfine is actively deploying a PointSav Trustworthy System to bypass legacy SaaS vulnerabilities and secure institutional knowledge.
-Woodfine está desplegando activamente un Sistema Confiable PointSav para evitar vulnerabilidades de SaaS y asegurar el conocimiento institucional.
-
-| Asset / Activo | Track / Vía | Status / Estado | Role / Rol |
+### 🛤️ Active Fleet Deployment
+| Asset Cluster | Operational Track | Status | System Vendor Registry |
 | :--- | :--- | :--- | :--- |
-| **Node 1, 2 & 3** | 1. Infrastructure | 🟢 Active | Secure physical mesh routing. / Enrutamiento físico seguro. |
-| **Corporate Cluster** | 2. Totebox | 🟡 Provisioning | SOC 3 compliant institutional knowledge. / Conocimiento institucional. |
-| **Property Cluster** | 2. Totebox | 🟡 Provisioning | DARP compliant real estate ledgers. / Libros de bienes inmuebles. |
-| **Workplace Terminals** | 3. Desktop | 🟡 Provisioning | Deterministic authoring (Files over Databases). / Creación determinista. |
-
-## 📡 Operational Fleet Repositories | Repositorios de Flota
-**English:**
-* **[`woodfine-fleet-manifest`](https://github.com/woodfine/woodfine-fleet-manifest)**: The active register of all physical servers and cloud gateways.
-* **[`content-wiki-corporate`](https://github.com/woodfine/content-wiki-corporate)**: Internal policies, HR mandates, and financial controls.
-* **[`content-wiki-projects`](https://github.com/woodfine/content-wiki-projects)**: Daily logs for active development sites.
-
-**Español:**
-* **[`woodfine-fleet-manifest`](https://github.com/woodfine/woodfine-fleet-manifest)**: El registro activo de servidores físicos y pasarelas en la nube.
-* **[`content-wiki-corporate`](https://github.com/woodfine/content-wiki-corporate)**: Políticas internas, mandatos de RRHH y controles financieros.
-* **[`content-wiki-projects`](https://github.com/woodfine/content-wiki-projects)**: Registros diarios para sitios de desarrollo activos.
+| **Node 1, 2 & 3** | `1. Infrastructure` | 🟢 `Active` | `fleet-infrastructure-*` |
+| **Corporate Totebox** | `2. Orchestration` | 🟡 `Provisioning` | `cluster-totebox-corporate` |
+| **Property Totebox** | `2. Orchestration` | 🟡 `Provisioning` | `cluster-totebox-property` |
 
 ---
 *© 2026 Woodfine Management Corp.*
