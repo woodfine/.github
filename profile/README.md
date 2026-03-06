@@ -4,7 +4,7 @@
 ### *Procurement, Development & Management of Real Property | Adquisición, Desarrollo y Gestión de Bienes Inmuebles*
 **Vancouver | New York | Berlin**
 
-[ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-manifest) | [ **Corporate Wiki** ](https://github.com/woodfine/content-wiki-corporate) | [ **System Vendor** ](https://github.com/pointsav)
+[ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-deployment) | [ **Corporate Wiki** ](https://github.com/woodfine/content-wiki-corporate) | [ **System Vendor** ](https://github.com/pointsav)
 
 </div>
 
@@ -33,8 +33,8 @@
 | Asset Cluster | Operational Track | Status | System Vendor Registry |
 | :--- | :--- | :--- | :--- |
 | **Node 1, 2 & 3** | `1. Infrastructure` | 🟢 `Active` | `fleet-infrastructure-*` |
-| **Corporate Totebox** | `2. Orchestration` | 🟡 `Provisioning` | `cluster-totebox-corporate` |
-| **Property Totebox** | `2. Orchestration` | 🟡 `Provisioning` | `cluster-totebox-property` |
+| **Corporate Totebox** | `2. Orchestration` | 🟡 `Provisioning` | `cluster-totebox-corporate-1` |
+| **Property Totebox** | `2. Orchestration` | 🟡 `Provisioning` | `cluster-totebox-property-1` |
 
 ---
 *© 2026 Woodfine Management Corp.*
