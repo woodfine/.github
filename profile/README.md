@@ -1,11 +1,13 @@
 <div align="center">
 
-# Woodfine Management Corp. | Woodfine Management Corp.
+# Woodfine Management Corp.
 ### *The primary institutional deployment of the PointSav OS.*
 
 <br/>
 
-## [ ➔ ENTER THE ACTIVE FLEET MANIFEST ](https://github.com/woodfine/woodfine-fleet-deployment)
+**[ ➔ Active Fleet Manifest ](https://github.com/woodfine/woodfine-fleet-deployment)**<br/>
+**[ ➔ Corporate Governance Wiki ](https://github.com/woodfine/content-wiki-corporate)**<br/>
+**[ ➔ Real Estate Projects Wiki ](https://github.com/woodfine/content-wiki-projects)**
 
 </div>
 
