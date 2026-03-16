@@ -21,10 +21,26 @@
 | :--- | :--- | :--- |
 | 🟢 Active | Primary Customer | Sovereign Disclosure Standard |
 
-### 🏢 Corporate Digital Transformation | Transformación Digital Corporativa
+---
+
+## I. THE PRIMARY CUSTOMER | EL CLIENTE PRINCIPAL
+
+### Corporate Digital Transformation | Transformación Digital Corporativa
 We procure and manage real property. We are the first institutional adopter of the PointSav OS. We executed a complete digital transformation. Our real estate ledgers operate on isolated, physically owned servers. 
 
 Any enterprise can adopt this operational model. We secure multi-generational capital through mathematical sovereignty. We bypass legacy cloud vulnerabilities completely. 
+
+---
+
+## II. INSTITUTIONAL DEPLOYMENT LEDGER | REGISTRO DE DESPLIEGUE INSTITUCIONAL
+
+Below is the active inventory of Woodfine's operational repositories, structured for immediate fiduciary auditing and physical execution.
+
+| Repository | Operational Function | Status |
+| :--- | :--- | :--- |
+| `woodfine-fleet-deployment` | Live operational edge network, marketing delivery, and active telemetry mesh. | 🟢 Active |
+| `content-wiki-corporate` | Institutional ledger mapping the Direct-Hold financial and legal architecture. | 🟢 Active |
+| `content-wiki-projects` | Physical execution blueprint mapping real estate acquisition and building standards. | 🟢 Active |
 
 ---
 *© 2026 Woodfine Management Corp.*
