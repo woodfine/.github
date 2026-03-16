@@ -2,6 +2,7 @@
 
 # Woodfine Management Corp.
 ### *The primary institutional deployment of the PointSav OS.*
+### *El despliegue institucional principal del PointSav OS.*
 
 <br/>
 
@@ -14,8 +15,10 @@
 <br/>
 
 > [!WARNING]
-> **SOVEREIGN FRAMEWORK DECLARATION | DECLARACIÓN DE MARCO SOBERANO**
+> **SOVEREIGN FRAMEWORK DECLARATION**
 > This organization proves the real-world deployment of the Sovereign Data Protocol. It enforces absolute data isolation. It contains zero live proprietary network payloads.
+>
+> *Esta organización demuestra el despliegue en el mundo real del Sovereign Data Protocol. Impone un aislamiento absoluto de datos. Contiene cero cargas de red propietarias en vivo.*
 
 | Architecture Tier | Component Role | Governance Anchor |
 | :--- | :--- | :--- |
@@ -23,16 +26,15 @@
 
 ---
 
-## I. THE PRIMARY CUSTOMER | EL CLIENTE PRINCIPAL
+## I. THE PRIMARY CUSTOMER
 
-### Corporate Digital Transformation | Transformación Digital Corporativa
-We procure and manage real property. We are the first institutional adopter of the PointSav OS. We executed a complete digital transformation. Our real estate ledgers operate on isolated, physically owned servers. 
+We procure and manage real property. We are the first institutional adopter of the PointSav OS. We executed a complete digital transformation. Our real estate ledgers operate on isolated, physically owned servers. Any enterprise can adopt this operational model. We secure multi-generational capital through mathematical sovereignty. We bypass legacy cloud vulnerabilities completely.
 
-Any enterprise can adopt this operational model. We secure multi-generational capital through mathematical sovereignty. We bypass legacy cloud vulnerabilities completely. 
+*Adquirimos y gestionamos bienes inmuebles. Somos el primer adoptante institucional del PointSav OS. Ejecutamos una transformación digital completa. Nuestros registros inmobiliarios operan en servidores aislados de propiedad física. Cualquier empresa puede adoptar este modelo operativo. Aseguramos el capital multigeneracional a través de la soberanía matemática. Evitamos las vulnerabilidades de la nube heredada por completo.*
 
 ---
 
-## II. INSTITUTIONAL DEPLOYMENT LEDGER | REGISTRO DE DESPLIEGUE INSTITUCIONAL
+## II. INSTITUTIONAL DEPLOYMENT LEDGER
 
 Below is the active inventory of Woodfine's operational repositories, structured for immediate fiduciary auditing and physical execution.
 
