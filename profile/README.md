@@ -1,49 +1,43 @@
 <div align="center">
 
 # Woodfine Management Corp.
-### *The primary institutional deployment of the PointSav OS.*
-### *El despliegue institucional principal del PointSav OS.*
+### *Procurement, Development & Management of Real Property | Adquisición, Desarrollo y Gestión de Bienes Inmuebles*
+**Vancouver | New York | Berlin**
 
 <br/>
 
-**[ ➔ Active Fleet Manifest ](https://github.com/woodfine/woodfine-fleet-deployment)**<br/>
-**[ ➔ Corporate Governance Wiki ](https://github.com/woodfine/content-wiki-corporate)**<br/>
-**[ ➔ Real Estate Projects Wiki ](https://github.com/woodfine/content-wiki-projects)**
+[![PointSav System Vendor](https://img.shields.io/badge/System_Vendor-PointSav_Digital_Systems-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pointsav)
+[![Fleet Manifest](https://img.shields.io/badge/Active_Fleet-Manifest-164679?style=for-the-badge)](https://github.com/woodfine/woodfine-fleet-deployment)
 
 </div>
 
 <br/>
 
 > [!WARNING]
-> **SOVEREIGN FRAMEWORK DECLARATION**
-> This organization proves the real-world deployment of the Sovereign Data Protocol. It enforces absolute data isolation. It contains zero live proprietary network payloads.
->
-> *Esta organización demuestra el despliegue en el mundo real del Sovereign Data Protocol. Impone un aislamiento absoluto de datos. Contiene cero cargas de red propietarias en vivo.*
+> **DATA SOVEREIGNTY POSTURE | POSTURA DE SOBERANÍA DE DATOS**
+> **[ EN ]** This organization serves as the public Fleet Manifest and compliance disclosure layer for Woodfine Capital Projects. To enforce SOC 3 and DARP mandates, all active real estate ledgers, financial controls, and personnel archives operate on isolated, physically owned Totebox nodes and are never uploaded to this domain.
+> **[ ES ]** Esta organización sirve como el Manifiesto de Flota público. Para hacer cumplir los mandatos SOC 3 y DARP, todos los libros de contabilidad inmobiliaria y controles financieros operan en nodos físicos aislados y nunca se cargan en este dominio.
 
-| Architecture Tier | Component Role | Governance Anchor |
-| :--- | :--- | :--- |
-| 🟢 Active | Primary Customer | Sovereign Disclosure Standard |
+### 🏢 Corporate Mandate | Mandato Corporativo
+**[ EN ]** Woodfine Management Corp. operates as the administration arm for Woodfine Capital Projects Inc. Our mandate is the secure procurement, development, and management of institutional-grade regional real estate utilizing Direct-Hold Solutions.
+**[ ES ]** Woodfine Management Corp. opera como el brazo administrativo de Woodfine Capital Projects Inc. Nuestro mandato es la gestión segura de bienes inmuebles regionales de grado institucional utilizando Direct-Hold Solutions.
 
----
+### ⚖️ The Financial Model | El Modelo Financiero
+**[ EN ]** * **Narrow Bank Model:** Eliminate reliance on commercial construction loans. Cap debt issuance with a strict 1.2 Interest Coverage Ratio.
+* **Co-Location Mandate:** Target stable regional markets by developing professional office buildings directly adjacent to major national retailers.
+* **Reporting Entities:** Pass income directly to Investors via Flow-Through Taxation while functioning as Freely Transferable private equity.
 
-## I. THE PRIMARY CUSTOMER
+**[ ES ]**
+* **Modelo de Banco Estrecho:** Eliminar dependencia de préstamos comerciales.
+* **Mandato de Coubicación:** Desarrollar oficinas adyacentes a minoristas nacionales.
+* **Entidades Reguladas:** Transferir ingresos a través de impuestos de flujo continuo.
 
-We procure and manage real property. We are the first institutional adopter of the PointSav OS. We executed a complete digital transformation. Our real estate ledgers operate on isolated, physically owned servers. Any enterprise can adopt this operational model. We secure multi-generational capital through mathematical sovereignty. We bypass legacy cloud vulnerabilities completely.
-
-*Adquirimos y gestionamos bienes inmuebles. Somos el primer adoptante institucional del PointSav OS. Ejecutamos una transformación digital completa. Nuestros registros inmobiliarios operan en servidores aislados de propiedad física. Cualquier empresa puede adoptar este modelo operativo. Aseguramos el capital multigeneracional a través de la soberanía matemática. Evitamos las vulnerabilidades de la nube heredada por completo.*
-
----
-
-## II. INSTITUTIONAL DEPLOYMENT LEDGER
-
-Below is the active inventory of Woodfine's operational repositories, structured for immediate fiduciary auditing and physical execution.
-
-| Repository | Operational Function | Status |
-| :--- | :--- | :--- |
-| `woodfine-fleet-deployment` | Live operational edge network, marketing delivery, and active telemetry mesh. | 🟢 Active |
-| `content-wiki-corporate` | Institutional ledger mapping the Direct-Hold financial and legal architecture. | 🟢 Active |
-| `content-wiki-projects` | Physical execution blueprint mapping real estate acquisition and building standards. | 🟢 Active |
+### 🛤️ Active Fleet Deployment
+| Asset Cluster | Operational Track | Status | System Vendor Registry |
+| :--- | :--- | :--- | :--- |
+| **Node 1, 2 & 3** | `1. Infrastructure` | 🟢 `Active` | `fleet-infrastructure-*` |
+| **Corporate Totebox** | `2. Orchestration` | 🟡 `Provisioning` | `cluster-totebox-corporate` |
+| **Property Totebox** | `2. Orchestration` | 🟡 `Provisioning` | `cluster-totebox-property` |
 
 ---
 *© 2026 Woodfine Management Corp.*
-*Public Architectural Blueprint. Governed by the Sovereign Data Protocol.*
