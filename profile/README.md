@@ -25,11 +25,13 @@
 </details>
 
 ### 🏢 Corporate Mandate | Mandato Corporativo
-**[ EN ]** Woodfine Management Corp. operates as the administration arm for Woodfine Capital Projects Inc. Our mandate is the secure procurement, development, and management of institutional-grade regional real estate utilizing Direct-Hold Solutions.
+**[ EN ]** Woodfine Management Corp. operates as the administration arm for Woodfine Capital Projec123$
+ts Inc. Our mandate is the secure procurement, development, and management of institutional-grade regional real estate utilizing Direct-Hold Solutions.
 **[ ES ]** Woodfine Management Corp. opera como el brazo administrativo de Woodfine Capital Projects Inc. Nuestro mandato es la gestión segura de bienes inmuebles regionales de grado institucional utilizando Soluciones de Tenencia Directa.
 
 ### ⚖️ The Financial Model | El Modelo Financiero
-**[ EN ]** * **Narrow Bank Model:** Eliminate reliance on commercial construction loans. Cap debt issuance with a strict 1.2 Interest Coverage Ratio.
+**[ EN ]** 
+* **Narrow Bank Model:** Eliminate reliance on commercial construction loans. Cap debt issuance with a strict 1.2 Interest Coverage Ratio.
 * **Co-Location Mandate:** Target stable regional markets by developing professional office buildings directly adjacent to major national retailers.
 * **Reporting Entities:** Pass income directly to Investors via Flow-Through Taxation while functioning as Freely Transferable private equity.
 
