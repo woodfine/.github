@@ -1,49 +1,33 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/woodfine/woodfine-media-assets/main/ASSET-SIGNET-MASTER.svg" width="80" alt="Woodfine Signet">
-
 # Woodfine Management Corp.
-### *Procurement, Development & Management of Real Property | Adquisición, Desarrollo y Gestión de Bienes Inmuebles*
+### *Procurement, Development & Management of Regional Real Estate | Adquisición, Desarrollo y Gestión de Bienes Inmuebles*
 **Vancouver | New York | Berlin**
 
-[![Entity](https://img.shields.io/badge/Entity-Enterprise_Customer-164679?style=flat-square)](#)
-[![Asset](https://img.shields.io/badge/Asset-Institutional_Real_Estate-164679?style=flat-square)](#)
-[![Structure](https://img.shields.io/badge/Structure-Direct--Hold-164679?style=flat-square)](#)
-
-[ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-deployment) | [ **Corporate Wiki** ](https://github.com/woodfine/content-wiki-corporate) | [ **System Vendor** ](https://github.com/pointsav)
+[ **Operational Fleet** ](https://github.com/woodfine/woodfine-fleet-manifest) | [ **Corporate Governance** ](https://github.com/woodfine/content-wiki-corporate) | [ **Infrastructure Provider** ](https://github.com/pointsav)
 
 </div>
 
----
+<br/>
 
-<details>
-<summary><b>🛡️ VIEW DATA SOVEREIGNTY POSTURE</b></summary>
-<br>
-<b>[ EN ]</b> This organization serves as the public Fleet Manifest and compliance disclosure layer for Woodfine Capital Projects. To enforce SOC 3 and DARP mandates, all active real estate ledgers, financial controls, and personnel archives operate on isolated, physically owned Totebox nodes and are never uploaded to this domain.<br>
-<b>[ ES ]</b> Esta organización sirve como el Manifiesto de Flota público. Para hacer cumplir los mandatos SOC 3 y DARP, todos los libros de contabilidad inmobiliaria y controles financieros operan en nodos físicos aislados y nunca se cargan en este dominio.
-<br><br>
-</details>
+> [!WARNING]
+> **FIDUCIARY SECURITY POSTURE | POSTURA DE SEGURIDAD FIDUCIARIA**
+> **[ EN ]** To protect our investors and ensure strict regulatory compliance, all active real estate ledgers, financial controls, and personnel archives operate exclusively on physically owned, isolated servers. Zero live financial data is stored within this public domain.
 
-### 🏢 Corporate Mandate | Mandato Corporativo
-**[ EN ]** Woodfine Management Corp. operates as the administration arm for Woodfine Capital Projects Inc. Our mandate is the secure procurement, development, and management of institutional-grade regional real estate utilizing Direct-Hold Solutions.
-**[ ES ]** Woodfine Management Corp. opera como el brazo administrativo de Woodfine Capital Projects Inc. Nuestro mandato es la gestión segura de bienes inmuebles regionales de grado institucional utilizando Soluciones de Tenencia Directa.
+### 🏢 The Woodfine Mandate | El Mandato Corporativo
+**[ EN ]** Woodfine Management Corp. is the administrative core of Woodfine Capital Projects Inc. We specialize in the secure procurement, development, and management of institutional-grade regional real estate. We utilize proprietary Direct-Hold Solutions to bypass layered private equity fees, delivering highly efficient, risk-adjusted yield directly to our investors.
 
 ### ⚖️ The Financial Model | El Modelo Financiero
-**[ EN ]** * **Narrow Bank Model:** Eliminate reliance on commercial construction loans. Cap debt issuance with a strict 1.2 Interest Coverage Ratio.
-* **Co-Location Mandate:** Target stable regional markets by developing professional office buildings directly adjacent to major national retailers.
-* **Reporting Entities:** Pass income directly to Investors via Flow-Through Taxation while functioning as Freely Transferable private equity.
+**[ EN ]** * **The Narrow Bank Model:** We eliminate reliance on commercial construction loans, capitalizing assets fully with perpetual equity and capping future debt with a strict 1.2 Interest Coverage Ratio.
+* **The Co-Location Strategy:** We target stable regional markets, developing professional office and medical spaces directly adjacent to essential national retailers (e.g., Costco, Walmart, Home Depot).
+* **Flow-Through Taxation:** Our vehicles operate as regulated reporting entities, allowing income to flow directly to investors while functioning as freely transferable private equity.
 
-**[ ES ]**
-* **Modelo de Banco Estrecho:** Eliminar dependencia de préstamos comerciales.
-* **Mandato de Coubicación:** Desarrollar oficinas adyacentes a minoristas nacionales.
-* **Entidades Reguladas:** Transferir ingresos a través de impuestos de flujo continuo.
+### 🗄️ Asymmetric Storage & 3D Asset Tokens
+To protect our real estate assets and investor data from third-party cloud vulnerabilities, Woodfine's operations are powered by a 100% independent, digital-first infrastructure engineered by PointSav Digital Systems. 
 
-### 🛤️ Active Fleet Deployment
-| Asset Cluster | Operational Track | Status | System Vendor Registry |
-| :--- | :--- | :--- | :--- |
-| **Node 1, 2 & 3** | `1. Infrastructure` | 🟢 `Active` | `fleet-infrastructure-*` |
-| **Corporate Totebox** | `2. Orchestration` | 🟡 `Provisioning` | `cluster-totebox-corporate` |
-| **Property Totebox** | `2. Orchestration` | 🟡 `Provisioning` | `cluster-totebox-property` |
+We do not store traditional folders. Our real estate ledgers are constructed as **3D Cryptographic Tokens**—immutable packages containing the physical source, the metadata ledger, and the cognitive state. 
+
+Through our **Asymmetric Storage Engine**, heavy payload data continuously flows through the cloud directly to local 3TB cold-storage drives via **Physical Egress**. We retain a lightning-fast, globally accessible semantic index in the cloud while guaranteeing absolute, physical ownership of the underlying assets, permanently eliminating vendor lock-in.
 
 ---
 *© 2026 Woodfine Management Corp.*
