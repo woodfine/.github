@@ -22,7 +22,7 @@
 * **The Co-Location Strategy:** We target stable regional markets, developing professional office and medical spaces directly adjacent to essential national retailers (e.g., Costco, Walmart, Home Depot).
 * **Flow-Through Taxation:** Our vehicles operate as regulated reporting entities, allowing income to flow directly to investors while functioning as freely transferable private equity.
 
-### 🗄️ Asymmetric Storage & 3D Asset Tokens
+### 🗄️ Asymmetric Storage & Totebox Archives
 To protect our real estate assets and investor data from third-party cloud vulnerabilities, Woodfine's operations are powered by a 100% independent, digital-first infrastructure engineered by PointSav Digital Systems. 
 
 We do not store traditional folders. Our real estate ledgers are constructed as **3D Cryptographic Tokens**—immutable packages containing the physical source, the metadata ledger, and the cognitive state. 
