@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/woodfine/woodfine-media-assets/main/ASSET-SIGNET-MASTER.svg" width="80" alt="Woodfine Signet">
 
 # Woodfine Management Corp.
-### *Property Management & Record Keeping*
+### *Business Administration, Record Keeping and Cyberphysical Connectivity*
 **Vancouver | New York | Berlin**
 
 [![Entity](https://img.shields.io/badge/Entity-Enterprise_Customer-164679?style=flat-square)](#)
@@ -15,11 +15,11 @@
 
 ---
 
-## 1. STATEMENT OF OPERATIONS
+## 1. CORPORATE OVERVIEW
 
-**[ EN ]** Woodfine Management Corp. is an institutional property management firm executing direct-hold solutions. Operating as a Digital-First enterprise, the firm utilizes the Totebox Integration OS architecture provided by PointSav Digital Systems for record keeping and building connectivity.
+**[ EN ]** Woodfine Management Corp. is an institutional property management firm executing direct-hold solutions. As the primary customer of PointSav Digital Systems, Woodfine utilizes Totebox Orchestration architecture to ensure absolute statutory auditability of its corporate ledgers and real estate assets. 
 
-> **[ ES ]** *Woodfine Management Corp. es una firma institucional de administración de propiedades que ejecuta direct-hold solutions. Operando como una empresa de prioridad digital, la firma utiliza la arquitectura Totebox Integration OS proporcionada por PointSav Digital Systems para el mantenimiento de registros y la conectividad de los edificios.*
+> **[ ES ]** *Woodfine Management Corp. es una firma institucional de administración de propiedades que ejecuta direct-hold solutions. Como cliente principal de PointSav Digital Systems, Woodfine utiliza la arquitectura de Orquestación Totebox para asegurar la auditabilidad estatutaria absoluta de sus libros corporativos y activos inmobiliarios.*
 
 ---
 
