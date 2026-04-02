@@ -2,30 +2,27 @@
 <img src="https://raw.githubusercontent.com/woodfine/woodfine-media-assets/main/ASSET-SIGNET-MASTER.svg" width="80" alt="Woodfine Signet">
 
 # Woodfine Management Corp.
-### *Procurement, Development & Management of Real Property | Adquisición, Desarrollo y Gestión de Bienes Inmuebles*
+### *Procurement, Development & Management of Real Property*
 **Vancouver | New York | Berlin**
 
 [![Entity](https://img.shields.io/badge/Entity-Enterprise_Customer-164679?style=flat-square)](#)
 [![Asset](https://img.shields.io/badge/Asset-Institutional_Real_Estate-164679?style=flat-square)](#)
-[![Structure](https://img.shields.io/badge/Structure-Direct--Hold-164679?style=flat-square)](#)
 
-[ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-deployment) | [ **Corporate Wiki** ](https://github.com/woodfine/content-wiki-corporate) | [ **System Vendor** ](https://github.com/pointsav)
+[ **Organization Profile** ](https://github.com/woodfine) | [ **Fleet Manifest** ](https://github.com/woodfine/woodfine-fleet-deployment) | [ **Corporate Wiki** ](https://github.com/woodfine/content-wiki-corporate) | [ **Projects Wiki** ](https://github.com/woodfine/content-wiki-projects) | [ **Media Assets** ](https://github.com/woodfine/woodfine-media-assets) | [ **PointSav Monorepo** ](https://github.com/pointsav/pointsav-monorepo)
 
 </div>
 
 ---
 
+## 1. STATEMENT OF OPERATIONS
+
+**[ EN ]** Woodfine Management Corp. is an institutional property management firm executing direct-hold solutions. To ensure pristine business administration and secure building connectivity, our operations utilize the cyberphysical infrastructure and record-keeping systems engineered by PointSav Digital Systems.
 <details>
-<summary><b>🛡️ VIEW DATA POSTURE | VER POSTURA DE DATOS</b></summary>
-<br>
-<b>[ EN ]</b> To protect our direct-hold solutions, no active financial ledgers are stored on the public internet. All asset data is secured locally on our private, hardware-locked servers.<br>
-<b>[ ES ]</b> Para proteger nuestras soluciones de tenencia directa, no se almacenan libros financieros activos en el internet público. Todos los datos de los activos están asegurados localmente en nuestros servidores privados bloqueados por hardware.
-<br><br>
+<summary><b>[ ES ] Traducción al Español</b></summary>
+Woodfine Management Corp. es una firma institucional de administración de propiedades que ejecuta direct-hold solutions. Para garantizar una administración comercial impecable y una conectividad segura de los edificios, nuestras operaciones utilizan la infraestructura ciberfísica y los sistemas de mantenimiento de registros diseñados por PointSav Digital Systems.
 </details>
 
-### 🎯 Operational Mandate | Mandato Operativo
-**[ EN ]** Woodfine Management Corp. manages institutional real estate capital across North America. We use highly secure, tamper-proof systems to ensure that our operations, records, and communications are fully protected and easily auditable. We rely on permanent, unalterable digital ledgers to guarantee absolute trust for our partners and investors.<br>
-**[ ES ]** Woodfine Management Corp. gestiona capital inmobiliario institucional en toda Norteamérica. Utilizamos sistemas altamente seguros y a prueba de manipulaciones para garantizar que nuestras operaciones, registros y comunicaciones estén totalmente protegidos y sean fácilmente auditables. Confiamos en libros de contabilidad digitales permanentes e inalterables para garantizar una confianza absoluta a nuestros socios e inversores.
-
----
-*© 2026 Woodfine Capital Projects Inc.*
+<br>
+<div align="center">
+<sub><em>Woodfine Capital Projects, Woodfine Management Corp., PointSav Digital Systems, Totebox Orchestration, and Totebox Archive are trademarks owned by Woodfine Capital Projects Inc. This notice serves as a formal declaration of intellectual property rights, asserting continuous use in commerce regardless of the omission of the ™ or ® symbols in the accompanying text. All operational and architectural system designations (including but not limited to PointSav Console OS, PointSav Infrastructure OS, PointSav MediaKit OS, PointSav Network OS, PointSav PrivateGit OS, PointSav Workplace OS, Totebox Integration OS, and Totebox OS) are proprietary structural wordmarks utilized exclusively within the PointSav Digital Systems architecture.</em></sub>
+</div>
