@@ -18,12 +18,11 @@
 ## 1. STATEMENT OF OPERATIONS
 
 **[ EN ]** Woodfine Management Corp. is an institutional property management firm executing direct-hold solutions. Operating as a Digital-First enterprise, the firm utilizes the Totebox Integration OS architecture provided by PointSav Digital Systems for record keeping and building connectivity.
-<details>
-<summary><b>[ ES ] Traducción al Español</b></summary>
-Woodfine Management Corp. es una firma institucional de administración de propiedades que ejecuta direct-hold solutions. Operando como una empresa de prioridad digital, la firma utiliza la arquitectura Totebox Integration OS proporcionada por PointSav Digital Systems para el mantenimiento de registros y la conectividad de los edificios.
-</details>
 
-<br>
-<div align="right">
+> **[ ES ]** *Woodfine Management Corp. es una firma institucional de administración de propiedades que ejecuta direct-hold solutions. Operando como una empresa de prioridad digital, la firma utiliza la arquitectura Totebox Integration OS proporcionada por PointSav Digital Systems para el mantenimiento de registros y la conectividad de los edificios.*
+
+---
+
+<div align="left">
 <sub><em>Woodfine Capital Projects, Woodfine Management Corp., PointSav Digital Systems, Totebox Orchestration, and Totebox Archive are trademarks owned by Woodfine Capital Projects Inc. This notice serves as a formal declaration of intellectual property rights, asserting continuous use in commerce regardless of the omission of the ™ or ® symbols in the accompanying text. All operational and architectural system designations (including but not limited to PointSav Console OS, PointSav Infrastructure OS, PointSav MediaKit OS, PointSav Network OS, PointSav PrivateGit OS, PointSav Workplace OS, Totebox Integration OS, and Totebox OS) are proprietary structural wordmarks utilized exclusively within the PointSav Digital Systems architecture.</em></sub>
 </div>
