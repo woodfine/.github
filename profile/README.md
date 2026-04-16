@@ -1,37 +1,30 @@
 <div align="center">
 
-# 🏢 Woodfine Management Corp.
-### *The primary institutional deployment of the PointSav OS.*
+<img src="https://raw.githubusercontent.com/woodfine/woodfine-media-assets/main/ASSET-SIGNET-MASTER.svg" width="64" alt="Woodfine Management Corp.">
 
-[![Status: Active Fleet](https://img.shields.io/badge/Status-Active_Fleet-success.svg)](#)
-[![Compliance: SOC 3 / DARP](https://img.shields.io/badge/Compliance-SOC_3_%2F_DARP-blue.svg)](#)
-
-<br/>
-
-**[ ➔ Active Fleet Manifest ](https://github.com/woodfine/woodfine-fleet-deployment)** | **[ ➔ Corporate Governance Wiki ](https://github.com/woodfine/content-wiki-corporate)** | **[ ➔ Real Estate Projects Wiki ](https://github.com/woodfine/content-wiki-projects)**
+# Woodfine Management Corp.
+### *Real Property Management* · *Administración de Bienes Raíces*
 
 </div>
 
 <br/>
 
-> [!WARNING]
-> **SOVEREIGN FRAMEWORK DECLARATION | DECLARACIÓN DE MARCO SOBERANO**
-> This organization proves the real-world deployment of the Sovereign Data Protocol. It enforces absolute data isolation. It contains zero live proprietary network payloads.
+Woodfine develops and manages environmentally certified commercial real estate across North America and Europe. Rather than trust decades of property records to third-party platforms, Woodfine is deploying its own — a formally verified, asset-anchored archive system where every building's complete history, from first permit to final sale, remains under the institution's permanent custody.
 
-## 🏢 Corporate Digital Transformation | Transformación Digital Corporativa
+This GitHub organisation is the public record of that deployment. The fleet manifest documents the full operational infrastructure in active development. The governance and projects wikis document the financial architecture and development strategy available for institutional review.
 
-Woodfine Management Corp. procures and manages real property. We are the first institutional adopter of the PointSav OS, having executed a complete digital transformation to secure our multi-generational capital. 
-
-By migrating to this sovereign architecture, we have eliminated analog file liabilities. We operate entirely on machine-readable files using **Asymmetric Storage** and **State Projection**. Our real estate ledgers and corporate governance frameworks operate strictly within mathematically sealed Totebox Archives on physically owned or verifiable servers, completely bypassing legacy cloud vulnerabilities.
-
-### Executive-Level Operation (Zero System Admin)
-
-Protecting institutional capital must be seamless. Our operations are managed without complex IT overhead:
-* **Machine-Based Authorization (MBA):** Access to our corporate vaults is granted via physical hardware keys, eliminating the security flaws of passwords.
-* **The TUI Administrator:** Our executives manage permissions, toggle services, and oversee **Cold Storage Entanglement** (mathematically locking external overflow drives to the archive) using a clean, keyboard-driven Text User Interface.
-
-Any enterprise can adopt this operational model.
+Woodfine is a subsidiary of Woodfine Capital Projects Inc. PointSav Digital Systems, also a subsidiary of the same parent, is the platform vendor.
 
 ---
-*© 2026 Woodfine Management Corp.*
-*Public Architectural Blueprint. Governed by the Sovereign Data Protocol.*
+
+**[→ Fleet Deployment](https://github.com/woodfine/woodfine-fleet-deployment)** &nbsp; The complete operational infrastructure manifest — live and in active development.
+
+**[→ Corporate Governance Wiki](https://github.com/woodfine/content-wiki-corporate)** &nbsp; The Direct-Hold financial framework and investment vehicle structure.
+
+**[→ PointSav Engineering](https://github.com/pointsav/pointsav-monorepo)** &nbsp; The vendor's engineering source code and platform architecture.
+
+---
+
+**[woodfinegroup.com](https://woodfinegroup.com)** &nbsp;·&nbsp; **[info@woodfinegroup.com](mailto:info@woodfinegroup.com)**
+
+*→ Versión en español: [README.es.md](./README.es.md)*
